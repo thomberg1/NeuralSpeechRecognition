@@ -16,7 +16,7 @@ ResNet CNN + CTC
 
 Bleu: 70.180 WER:  16.482 CER:  9.792 ACC:  49.231
 
-Deepspeech 2 + CTC
+Deepspeech 2 + CTC (modified from <a href='https://github.com/SeanNaren/deepspeech.pytorch'>Sean Naren's deepspeech.pytorch repository</a>)
 
 Bleu: 89.890 WER:  5.094 CER:  2.993 ACC:  76.923
 
